@@ -1,10 +1,12 @@
 ## Estatísticas do github, projetos e habilidades ⚡
 ### Arquiteto de Soluções | Arquiteto de Integração | Arquiteto SOA | Engenheiro de Software | Desenvolvedor 
 <div>
-<div align="margin 0 0">
+<div align="justify">
   <a href="https://github.com/flavrance">
-  <div style="display: inline_block>
+  <div style="display: inline_block";position:absolute;margin-left:10px;margin-top:10px;>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavrance&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  </div> 
+  <div style="display: inline_block";position:absolute;margin-left:10px;margin-top:10px;>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavrance&layout=compact&langs_count=7&theme=dracula"/>
   </div> 
   </a>
