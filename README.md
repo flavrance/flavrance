@@ -1,4 +1,4 @@
-## Projetos em construção ;)
+## Estatísticas do github, projetos e habilidades ⚡
  <div>
 <div align="center">
   <a href="https://github.com/flavrance">
